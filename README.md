@@ -1,61 +1,18 @@
-# Simple Ghost Game 
+# Flappy Bird game  
 
-Important Notice!! I have not added a limit to Candy spawn (don't leave it open irresponsibly). I am still working on a solution and testing. This project is about a ghost collecting candy. I have the 3D models for both the ghost and the candy, and I've been wanting to experiment with using custom assets and 3D environments.
+This is a project I took on to better understand the different components of a game. I worked alongside a tutorial to complete this project.
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+I used the assets from https://github.com/zigurous/unity-flappy-bird-tutorial/tree/main/Assets, as my main priority was understanding components and elements rather than stylising. I find that this experience was helpful, I took note of what I missed out on in my previous work and what else I want to know more about and explore in future projects. 
 
 ## Getting Started
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+I work on a windows 10, this project also uses unity and C# script. 
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+I've pushed the entire project into git hub, feel free to explore and open files. 
 
 ## Authors
+I used assets from https://github.com/zigurous/unity-flappy-bird-tutorial/tree/main/Assets and followed the set by step guide from https://www.youtube.com/watch?v=ihvBiJ1oC9U&list=PLcZYmeTR9FWcK3XPaR1jFMGpldgcE0n8q&index=2. 
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
